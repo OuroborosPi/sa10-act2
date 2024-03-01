@@ -89,4 +89,5 @@ class Backstage
         @quality += 1
         @quality += 1 if  @days_remaining < 10
         @quality += 1 if  @days_remaining < 5
+    end
 end
