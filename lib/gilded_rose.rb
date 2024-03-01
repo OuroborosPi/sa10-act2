@@ -55,4 +55,6 @@ class GildedRose
       end
     end
   end
+  def normal_tick
+  end
 end
